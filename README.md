@@ -1,42 +1,72 @@
+### <div align="center">Hey there ^_^ 👋</div>  
+  
+
+
+
+### About Me  
+📚 I’m currently learning #Rstats  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=R4j0Dm.R4j0Dm&left_color=blue&right_color=black"  />
-</div>
+<a href="https://github.com/R4j0Dm" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-###
+<br/>  
 
-<h1 align="center">hey there ^_^ 👋</h1>
 
-###
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4j0Dm&hide_border=true&layout=compact" align="center" /></div>  
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=R4j0Dm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-###
+<br/>  
 
-<p align="left">📚 I'm currently learning #Rstats</p>
 
-###
+## Recent Blog Posts  
+  
 
-<h3 align="left">🛠 Language and tools</h3>
+<br/>  
 
-###
+  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br/>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R4j0Dm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=R4j0Dm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-</div>
+<img src="https://komarev.com/ghpvc/?username=R4j0Dm&&style=flat-square" align="center" />
+</div>  
+  
 
-###
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
