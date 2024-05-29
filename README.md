@@ -45,25 +45,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4j0Dm&hide_border=true&layout=compact" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=R4j0Dm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=R4j0Dm&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
