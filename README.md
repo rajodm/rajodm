@@ -1,70 +1,29 @@
-<div align="center">
-  <img src="" align="center" style="width: 100%" />
-    </div>
+<h1 align="left">Hey  ^_^ 👋</h1>
 
+###
 
-    ### <div align="center">Hi! ^_^ 👋</div>
+<p align="left"></p>
 
+###
 
-    - 🌱 I’m currently learning #Rstats
+<h2 align="left">About me</h2>
 
+###
 
-  <br/>
+<p align="left">📚 I'm currently learning #Rstats</p>
 
+###
 
-    ## My Skill Set
-    <table><tr><td valign="top" width="33%">
+<h2 align="left">I code with</h2>
 
-      <div align="center">
-        <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
-          </div>
+###
 
-          </td><td valign="top" width="33%">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-
-
-            </td><td valign="top" width="33%">
-
-
-
-              </td></tr></table>
-
-              <br/>
-
-
-              ## Connect with me
-              <div align="center">
-                <a href="https://github.com/R4j0Dm" target="_blank">
-                  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-                    </a>
-                    </div>
-
-
-                    <br/>
-
-
-                    ## Github Stats
-                    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=R4j0Dm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-                      <br/>
-
-
-                      ## Recent Blog Posts
-
-
-                      <br/>
-
-
-
-                      <br/>
-
-                      ![Profile views counter](https://komarev.com/ghpvc/?username=R4j0Dm&&style=flat-square)
-
-
-                    <br/>
-
-
-                      <br />
-
-                      ----
-                      <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+###
