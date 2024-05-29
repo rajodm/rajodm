@@ -1,12 +1,14 @@
-<h1 align="left">Hey  ^_^ 👋</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=R4j0Dm.R4j0Dm&left_color=blue&right_color=black"  />
+</div>
 
 ###
 
-<p align="left"></p>
+<h1 align="center">hey there ^_^ 👋</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -14,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -28,9 +30,13 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R4j0Dm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R4j0Dm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=R4j0Dm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
