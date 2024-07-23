@@ -11,23 +11,12 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-<div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>  
+<div align="center">
+<img src=https://img.shields.io/badge/RStats-8D33FF?logo=r&logoColor=white&style=for-the-badge alt=rstats style="margin-bottom: 5px;" />
 </div>
 
-</td><td valign="top" width="33%">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>
 
 ## Connect with me  
 <div align="center">
