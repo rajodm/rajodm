@@ -28,6 +28,7 @@
 </td></tr></table>  
 
 <br/>  
+[![RStudio](https://img.shields.io/badge/RStats-8D33FF?logo=r&logoColor=white&style=for-the-badge)]()
 
 
 ## Connect with me  
