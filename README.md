@@ -4,7 +4,7 @@
 
 
 ### About Me  
-📚 I’m currently learning #Rstats  
+📚 I’m currently learning #Rstats and the Tidyverse 
   
 
 <br/>  
