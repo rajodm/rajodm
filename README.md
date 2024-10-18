@@ -14,9 +14,6 @@
 
 <div align="center">
 <img src=https://img.shields.io/badge/RStats-8D33FF?logo=r&logoColor=white&style=for-the-badge alt=rstats style="margin-bottom: 5px;" />
-</div>
-
-<div align="center">
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio" style="margin-bottom: 5px;" />
 </div>
 
