@@ -15,6 +15,9 @@
 <div align="center">
 <img src=https://img.shields.io/badge/RStats-8D33FF?logo=r&logoColor=white&style=for-the-badge alt=rstats style="margin-bottom: 5px;" />
 
+<img src="https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white" alt="tidyverse" style="margin-bottom: 5px;" />
+
+
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio" style="margin-bottom: 5px;" />
 </div>
 
