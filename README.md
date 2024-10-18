@@ -17,6 +17,7 @@
 
 <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white" alt="tidyverse" style="margin-bottom: 5px;" />
 
+<img src="https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white" alt="quarto" style="margin-bottom: 5px;" />
 
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio" style="margin-bottom: 5px;" />
 </div>
