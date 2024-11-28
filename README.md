@@ -39,8 +39,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4j0Dm&hide_border=true&layout=compact" align="center" /></div>  
 
+<br/>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=R4j0Dm&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   
 
-<br/>  
+<br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=R4j0Dm.README.md&left_color=green&right_color=red
 
