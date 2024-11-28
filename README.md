@@ -45,5 +45,3 @@
   
 
 <br/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=R4j0Dm.README.md&left_color=green&right_color=red
-
