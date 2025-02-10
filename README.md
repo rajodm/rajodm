@@ -20,13 +20,13 @@ skills.
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R4j0Dm&theme=default&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajodm&theme=default&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4j0Dm&layout=compact&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajodm&layout=compact&hide_border=true)
 </div>
 
 ### 🌱 Learning & Motivation
 Driven by constant curiosity, I'm focused on solving interesting problems and growing my skills in R programming, the Tidyverse ecosystem, and data science. Always eager to learn, explore new technologies, and turn challenges into opportunities.
 
 ### 📬 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-R4j0Dm-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R4j0Dm)
+[![GitHub](https://img.shields.io/badge/GitHub-rajodm-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajodm)
