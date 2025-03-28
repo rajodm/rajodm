@@ -32,6 +32,6 @@ Driven by constant curiosity, I'm focused on solving interesting problems and gr
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-rajodm-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajodm)
-[![Bluesky](https://img.shields.io/badge/GitHub-rajodm-black?style=for-the-badge&logo=bluesky&logoColor=cyan)](https://bsky.app/profile/rajodm.bsky.social)
+[![Bluesky](https://img.shields.io/badge/GitHub-rajodm-black?style=for-the-badge&logo=bluesky&logoColor=lightblue)](https://bsky.app/profile/rajodm.bsky.social)
 
 </div>
