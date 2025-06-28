@@ -29,7 +29,7 @@ skills.
 Driven by constant curiosity, I'm focused on solving interesting problems and growing my skills in R programming, the Tidyverse ecosystem, and data science. Always eager to learn, explore new technologies, and turn challenges into opportunities.
 
 ### 📬 Connect with Me
-<div align="center">
+<div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-rajodm-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajodm)
 
