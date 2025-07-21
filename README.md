@@ -35,4 +35,5 @@ Driven by constant curiosity, I'm focused on solving interesting problems and gr
 
 [![BlueSky](https://img.shields.io/badge/BlueSky-rajodm-blue?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rajodm.bsky.social)
 
+[![Email](https://img.shields.io/badge/Email-rajoandry028@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 </div>
