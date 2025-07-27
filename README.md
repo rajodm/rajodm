@@ -14,12 +14,6 @@ skills.
   </a>
 </p>
 
-### 📈 My GitHub Journey
-
-<div align="center">  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajodm&layout=compact&hide_border=true)]
-</div>
-
 ### 🌱 Learning & Motivation
 Driven by constant curiosity, I'm focused on solving interesting problems and growing my skills in R programming, the Tidyverse ecosystem, and data science. Always eager to learn, explore new technologies, and turn challenges into opportunities.
 
