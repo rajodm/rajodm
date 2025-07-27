@@ -17,7 +17,7 @@ skills.
 ### 📈 My GitHub Journey
 
 <div align="center">  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajodm&layout=compact&hide_border=true)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajodm&layout=compact&hide_border=true)]
 </div>
 
 ### 🌱 Learning & Motivation
