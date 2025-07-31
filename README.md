@@ -18,11 +18,5 @@ skills.
 Driven by constant curiosity, I'm focused on solving interesting problems and growing my skills in R programming, the Tidyverse ecosystem, and data science. Always eager to learn, explore new technologies, and turn challenges into opportunities.
 
 ### 📬 Connect with Me
-<div align = "center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-rajodm-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajodm)
-
-[![BlueSky](https://img.shields.io/badge/BlueSky-rajodm-blue?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rajodm.bsky.social)
-
-[![Email](https://img.shields.io/badge/Email-rajoandry028@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajoandry028@gmail.com)
-</div>
+[![BlueSky](https://img.shields.io/badge/-BlueSky-1185fe?style=flat&logo=bluesky&logoColor=white&link=https://bsky.app/profile/rajodm.bsky.social)](https://bsky.app/profile/rajodm.bsky.social) &nbsp; [![Email](https://img.shields.io/badge/-Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:rajoandry028@gmail.com)
