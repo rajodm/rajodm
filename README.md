@@ -1,21 +1,10 @@
-# Hey there! 👋
+## Hi, I'm Rajo 👋
+Data enthusiast exploring the world of data science.
 
-## Data Enthusiast | Learning in Progress 🚀
-
-### 💬 About Me
-Exploring the world of programming and diving into new technologies.
-Currently on an exciting journey of learning R 📚 and expanding my data
-skills.
-
-### 🛠 My Current Toolbox
-<p align="center">
-  <a href = "https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r&theme=dark" />
-  </a>
-</p>
-
-### 🌱 Learning & Motivation
-Driven by constant curiosity, I'm focused on solving interesting problems and growing my skills in R programming, the Tidyverse ecosystem, and data science. Always eager to learn, explore new technologies, and turn challenges into opportunities.
+### Currently Learning
+- #rstats
+- Data analysis and visualization
+- Statistical methods
 
 ### 📬 Connect with Me
 
